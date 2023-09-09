@@ -1,0 +1,238 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background-color: #f1dddd;
+    margin: 0;
+    display: flex;
+}
+
+.first-div {
+    width: 500px;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+.first-div h1 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.second-div {
+    width: 500px;
+    margin: 0;
+    position: relative;
+    top: 3px;
+    left: 350px;
+}
+
+.second-div img {
+    width: 100%;
+}
+
+.same-btn {
+    font-weight: 700;
+    font-size: 15px;
+    padding: 20px 40px;
+    color: white;
+    background-color: #E55473;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p {
+    color: gray;
+}
+
+.third-div h1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.third-div {
+    text-align: center;
+    width: 520px;
+    justify-content: center;
+    display: grid;
+    margin-left: 510px;
+    margin-top: 100px;
+
+}
+
+.fourth-div {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fourth-div img {
+    width: 70%;
+}
+
+.pink div {
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0 0;
+    justify-content: center;
+    display: flex;
+}
+
+.same-div {
+    width: 464px;
+    height: 538px;
+}
+
+.red div {
+    border-radius: 300px 300px 0 0;
+    justify-content: center;
+    display: flex;
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+.yellow div {
+    border-radius: 300px 300px 0 0;
+    justify-content: center;
+    display: flex;
+    background-color: rgba(71, 125, 17, 0.15);
+}
+
+.red {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.pink {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.yellow {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.support {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1090px;
+    height: 147px;
+    position: relative;
+    top: 74px;
+}
+
+.support div {
+    text-align: center;
+}
+
+.support div h2 {
+    color: gray;
+}
+
+.support-container {
+    margin-top: 100px;
+    width: 1440px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+
+.hot-deal {
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+    height: 620px;
+}
+
+.hot-deal h2 {
+    font-size: 30px;
+}
+
+.color-red {
+    color: rgba(229, 84, 115, 1);
+}
+
+.hot-first {
+    text-align: center;
+    width: 554px;
+    height: 228px;
+    position: relative;
+    top: 210px;
+    left: 250px;
+}
+
+.hot-second {
+    position: relative;
+    top: 84px;
+    left: 500px;
+}
+
+.insta h2 {
+    font-size: 30px;
+}
+
+.insta {
+    width: 520px;
+    margin-top: 100px;
+    text-align: center;
+    position: relative;
+    left: 520px;
+}
+
+.insta-show {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sub-container {
+    background-image: url(Flower-Asset/Rectangle-9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.sub h2 {
+    font-size: 38px;
+}
+
+.sub {
+    position: relative;
+    top: 130px;
+}
+input[type="email"] {
+    font-size: 15px;
+    padding: 20px 40px;
+    color: white;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    width: 500px;
+    margin-right: 10px;
+}
+
+.color-white {
+    color: white;
+}
+
+.color-differ {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    height: 450px;
+}
+
+footer div {
+    position: relative;
+    top: 180px;
+    left: 530px;
+    width: 520px;
+}
